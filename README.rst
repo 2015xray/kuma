@@ -18,8 +18,8 @@ Kuma
    :target: https://raw.githubusercontent.com/mozilla/kuma/master/LICENSE
    :alt: License
 
-Kuma 是一个有`MDN (developer.mozilla.org)
-<https://developer.mozilla.org>`_支撑推动的平台。
+Kuma 是一个有 `MDN (developer.mozilla.org)
+<https://developer.mozilla.org>`_ 支撑推动的平台。
 
 开发
 ===========
