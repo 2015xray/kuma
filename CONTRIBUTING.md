@@ -1,4 +1,4 @@
-Contributing Code
+贡献代码
 =================
 
   * You agree to license your contributions under [MPL 2][MPL2]
