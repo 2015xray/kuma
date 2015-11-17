@@ -18,10 +18,10 @@ Kuma
    :target: https://raw.githubusercontent.com/mozilla/kuma/master/LICENSE
    :alt: License
 
-Kuma is the platform that powers `MDN (developer.mozilla.org)
+Kuma 是一个有支撑推动`MDN (developer.mozilla.org)的平台。
 <https://developer.mozilla.org>`_
 
-Development
+开发
 ===========
 
 :Code:          https://github.com/mozilla/kuma
@@ -42,7 +42,7 @@ Development
                 https://developer.allizom.org/ (stage)
                 https://developer.mozilla.org/ (prod)
 
-Getting Started
+开始
 ===============
 
-想帮助变得MDN更好？ 我们 `贡献指导 <CONTRIBUTING.md>`_ 列出了一些好的开始项目和提供在代码提交上的指导。
+想帮助MDN变得更好？ 我们的 `贡献指导 <CONTRIBUTING.md>`_ 列出了一些好的开始项目和提供在代码提交上的指导。
