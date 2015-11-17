@@ -45,4 +45,4 @@ Development
 Getting Started
 ===============
 
-Want to help make MDN great? Our `contribution guide <CONTRIBUTING.md>`_ lists some good first projects and offers direction on submitting code.
+想帮助变得MDN更好？ 我们 `贡献指导 <CONTRIBUTING.md>`_ 列出了一些好的开始项目和提供在代码提交上的指导。
